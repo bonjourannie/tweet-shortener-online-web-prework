@@ -1,5 +1,5 @@
 # Write your code here.
-def word_substitutor(tweet_one)
+def word_substitutor(tweet)
   convert = {
    "hello" => "hi",
    "to" => "2",
