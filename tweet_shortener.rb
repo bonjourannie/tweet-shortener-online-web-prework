@@ -1,5 +1,5 @@
 # Write your code here.
-def dictionary
+def word_substitutor
   convert = {
    "hello" => "hi",
    "to" => "2",
