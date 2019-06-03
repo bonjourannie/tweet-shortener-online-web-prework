@@ -12,7 +12,7 @@ def dictionary
    "at" => "@",
    "and" => "&"
 }
-end
+end 
 
 def word_substituter(tweet_one)
     tweet.split(" ").map do |word|
